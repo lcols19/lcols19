@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 -->
 <br>
 
-- 🔭 I’m currently working on ft_server and minirt
+- 🔭 I’m currently working on minirt
 - 🌱 I’m currently learning C, Bash, Docker, ASM, Powershell
 - 👯 I’m looking to collaborate on OSINT projects
 - 🤔 I’m looking for help with making my codes efficient
