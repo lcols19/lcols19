@@ -2,12 +2,12 @@
 
 <br>
 
-- 🔭 I’m currently working on minirt
-- 🌱 I’m currently learning C, Bash, Docker, ASM, Powershell
-- 👯 I’m looking to collaborate on OSINT projects
+- 🔭 I’m currently working on a ray tracer
+- 🌱 I’m currently learning C, Bash, ASM, Powershell
+- 👯 I’m looking to collaborate on beginner-friendly CTF challenges
 - 🤔 I’m looking for help with making my codes efficient
-- 💬 Ask me about basic C
-- 📫 How to reach me: here, through github
+- 💬 Ask me about C
+- 📫 How to reach me: through github
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I couldn't code 2 years ago.
 <br>
