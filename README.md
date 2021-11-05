@@ -2,7 +2,7 @@
 
 <br>
 
-- 🔭 I’m currently working on a ray tracer
+- 🔭 I’m currently working on a shell
 - 🌱 I’m currently learning C, Bash, ASM, Powershell
 - 👯 I’m looking to collaborate on beginner-friendly CTF challenges
 - 🤔 I’m looking for help with making my codes efficient
